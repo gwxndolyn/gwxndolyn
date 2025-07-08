@@ -1,16 +1,5 @@
 <h1 align="left">Hi, I'm Gwendolyn 🎀</h1>
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/gwndolyn/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <a href="gwenxdolyn@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
 
 ###
 
@@ -120,10 +109,10 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=gwxndolyn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gwxndolyn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="100" alt="GitHub Stats" />
   
   <!-- Streaks -->
-  <img src="https://streak-stats.demolab.com?user=gwxndolyn&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="GitHub Streaks" />
+  <img src="https://streak-stats.demolab.com?user=gwxndolyn&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="100" alt="GitHub Streaks" />
 </div>
 
 <!-- Trophy Section -->
