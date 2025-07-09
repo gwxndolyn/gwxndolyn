@@ -4,10 +4,10 @@
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <!-- Stats -->
 
-  <img src="https://github-readme-stats.vercel.app/api?username=gwxndolyn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="100" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gwxndolyn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="140" alt="GitHub Stats" />
   
   <!-- Streaks -->
-  <img src="https://streak-stats.demolab.com?user=gwxndolyn&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="100" alt="GitHub Streaks" />
+  <img src="https://streak-stats.demolab.com?user=gwxndolyn&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="140" alt="GitHub Streaks" />
 
 <!-- Trophy Section -->
 <div align="center" style="margin-top: 16px;">
