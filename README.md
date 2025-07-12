@@ -19,11 +19,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gwxndolyn&radius=16&theme=dracula&area=true&order=5&hide_border=true&hide_title=false" height="240" alt="GitHub Activity Graph" />
 </div>
 
-
-
-
-
-
 ###
 
 
